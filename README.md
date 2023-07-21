@@ -49,4 +49,3 @@ I am a tech wizard from Kenya<img src="https://media.giphy.com/media/WUlplcMpOCE
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rocceli&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocceli)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/rocceli/rocceli/blob/output/github-contribution-grid-snake.svg)
