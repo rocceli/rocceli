@@ -27,7 +27,7 @@ I am a Full Stack Developer  from Kenya<img src="https://media.giphy.com/media/W
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/ngugi-gachuki-182bb4264/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https//:www.linkedin.com/in/ngugi-gachuki-182bb4264/)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
