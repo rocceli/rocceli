@@ -17,12 +17,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I am a tech wizard from Kenya<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I build django web applications and deploy on  multiple clouds.
+I am a techie from Kenya<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: I build software applications.
 
-- :seedling: I build machine learning models to solve real world solutions.
+- :seedling: I also cloud administration models to solve real world solutions.
 
-- :zap: In my free time, I read books and sove mathematical problems.
+- :zap: In my free time, I read books.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https//:www.linkedin.com/in/ngugi-gachuki-182bb4264)
 - ---
