@@ -20,7 +20,7 @@
 I am a techie from Kenya<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I build software applications.
 
-- :seedling: I also cloud administration models to solve real world solutions.
+- :seedling: I also do cloud administration models to solve real world solutions.
 
 - :zap: In my free time, I read books.
 
