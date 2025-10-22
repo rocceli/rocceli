@@ -1,19 +1,19 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<img src="https://komarev.com/ghpvc/?username=rocceli&style=flat-square&color=blue" alt=""/>
-<h1>
+</div> -->
+<!-- <img src="https://komarev.com/ghpvc/?username=rocceli&style=flat-square&color=blue" alt=""/> -->
+<!-- <h1>
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
+</h1> -->
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-I am a techie from Kenya<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+</div> -->
+Techie from Earth<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
-- 🌱: I  build IT solutions.
+- 🌱: Web3.
 
-- ⚡: In my free time, I read books.
+- ⚡: Avid reader.
 - ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -38,5 +38,5 @@ I am a techie from Kenya<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rocceli&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocceli&exclude_repo=some-repo-name&layout=compact&theme=dark&langs_count=5&card_width=300&hide=html,css,bootstrap,SCSS,php,javascript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocceli&exclude_repo=some-repo-name&layout=compact&theme=dark&langs_count=5&card_width=300&hide=html,typescript,css,bootstrap,SCSS,php,javascript)](https://github.com/anuraghazra/github-readme-stats)
 
